@@ -7,7 +7,7 @@ This repository contains structured experiments conducted to evaluate the capabi
 ### Contents
 - [Contextualized Question-Answering](./Experiments/Contextualized_Question_Answering.md)
 
-**Accuracy & Effectiveness: **The question-answering feature performs well in generating precise responses when the question is directly related to uploaded material with results largely depending on the quality and relevance of the input.
+**Accuracy & Effectiveness:** The question-answering feature performs well in generating precise responses when the question is directly related to uploaded material with results largely depending on the quality and relevance of the input.
 **Strengths:** Helps students engage interactively with content, enabling immediate responses to complex questions without external searching.
 **Weaknesses:** The model may struggle with ambiguous or poorly framed questions. Hence, it providing less accurate answers in such cases.
 
